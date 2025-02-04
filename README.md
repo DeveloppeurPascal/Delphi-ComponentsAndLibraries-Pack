@@ -33,14 +33,12 @@ git submodule update --remote
 
 ## License to use this code repository and its contents
 
-This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/).
+This source code is distributed under the [AGPL 3.0 or later license](https://choosealicense.com/licenses/agpl-3.0/). It's not the case for all of my other projects. Take a look at every LICENSE and README.md file before doing garbage.
 
 You are generally free to use the contents of this code repository anywhere, provided that:
 * you mention it in your projects
 * distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
 * to distribute the source code of your creations under the AGPL license.
-
-If this license doesn't suit your needs, you can purchase the right to use this project under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated commercial license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
 
 These source codes are provided as is, without warranty of any kind.
 
@@ -66,4 +64,6 @@ You can use one of those services :
 * [Liberapay](https://liberapay.com/PatrickPremartin)
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
 
-or if you speack french you can [subscribe to Zone Abo](https://zone-abo.fr/nos-abonnements.php) on a monthly or yearly basis and get a lot of resources as videos and articles.
+You can buy [my softwares](https://lic.olfsoftware.fr/products.php?lng=en), [my video games](https://lic.gamolf.fr/products.php?lng=en) or [a developer license for my libraries](https://lic.developpeur-pascal.fr/products.php?lng=en) if you use them in your projects.
+
+If you speak French [subscribe to Zone Abo](https://zone-abo.fr/nos-abonnements.php) to access my complete online archive (articles, videos, training videos, ebooks).

@@ -33,14 +33,12 @@ git submodule update --remote
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
-Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure](https://choosealicense.com/licenses/agpl-3.0/).
+Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure](https://choosealicense.com/licenses/agpl-3.0/). Ce n'est pas toujours le cas de mes autres projets. Regardez leurs fichiers LICENSE et README.md (ou LISEZMOI.md) avant de faire des bêtises.
 
 Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'importe où à condition :
 * d'en faire mention dans vos projets
 * de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
 * de diffuser les codes sources de vos créations sous licence AGPL
-
-Si cette licence ne convient pas à vos besoins vous pouvez acheter un droit d'utilisation de ce projet sous la licence [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) ou une licence commerciale dédiée ([contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins).
 
 Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
 
@@ -66,4 +64,6 @@ Vous pouvez utiliser l'un de ces services :
 * [Liberapay](https://liberapay.com/PatrickPremartin)
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
 
-ou si vous parlez français vous pouvez [vous abonner à Zone Abo](https://zone-abo.fr/nos-abonnements.php) sur une base mensuelle ou annuelle et avoir en plus accès à de nombreuses ressources en ligne (vidéos et articles).
+Vous pouvez acheter [mes logiciels](https://lic.olfsoftware.fr/products.php?lng=fr), [mes jeux vidéo](https://lic.gamolf.fr/products.php?lng=fr) ou [une licence de développement pour mes bibliothèques](https://lic.developpeur-pascal.fr/products.php?lng=fr) si vous les utilisez dans vos projets.
+
+Si vous parlez français [abonnez-vous à Zone Abo](https://zone-abo.fr/nos-abonnements.php) pour accéder à l'intégralité de mes archives en ligne (articles, vidéos, vidéos de formation, ebooks).
