@@ -40,6 +40,8 @@ Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'impor
 * de diffuser les modifications apportées aux fichiers fournis dans ce projet sous licence AGPL (en y laissant les mentions de copyright d'origine (auteur, lien vers ce dépôt, licence) obligatoirement complétées par les vôtres)
 * de diffuser les codes sources de vos créations sous licence AGPL
 
+Si cette licence ne convient pas à vos besoins (notamment pour un projet commercial) je propose aussi [des licences développeur classiques](https://store.developpeur-pascal.fr) et vous pouvez toujours [me contacter pour en discuter](https://developpeur-pascal.fr/nous-contacter.php).
+
 Ces codes sources sont fournis en l'état sans garantie d'aucune sorte.
 
 Certains éléments inclus dans ce dépôt peuvent dépendre de droits d'utilisation de tiers (images, sons, ...). Ils ne sont pas réutilisables dans vos projets sauf mention contraire.

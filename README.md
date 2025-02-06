@@ -40,6 +40,8 @@ You are generally free to use the contents of this code repository anywhere, pro
 * distribute the modifications made to the files supplied in this project under the AGPL license (leaving the original copyright notices (author, link to this repository, license) which must be supplemented by your own)
 * to distribute the source code of your creations under the AGPL license.
 
+If this license doesn't suit your needs (especially for a commercial project) I also offer [standard developer licenses](https://store.developpeur-pascal.fr/en/) and you can always [contact me to discuss](https://developpeur-pascal.fr/nous-contacter.php).
+
 These source codes are provided as is, without warranty of any kind.
 
 Certain elements included in this repository may be subject to third-party usage rights (images, sounds, etc.). They are not reusable in your projects unless otherwise stated.
