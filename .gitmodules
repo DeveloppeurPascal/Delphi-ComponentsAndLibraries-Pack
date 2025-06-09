@@ -55,3 +55,21 @@
 [submodule "FMX-Styles-Utils"]
 	path = FMX-Styles-Utils
 	url = https://github.com/DeveloppeurPascal/FMX-Styles-Utils.git
+[submodule "CilTseg4Delphi"]
+	path = CilTseg4Delphi
+	url = https://github.com/DeveloppeurPascal/CilTseg4Delphi
+[submodule "GestPic4Delphi"]
+	path = GestPic4Delphi
+	url = https://github.com/DeveloppeurPascal/GestPic4Delphi.git
+[submodule "GestDL4Delphi"]
+	path = GestDL4Delphi
+	url = https://github.com/DeveloppeurPascal/GestDL4Delphi.git
+[submodule "LemonSqueezy4Delphi"]
+	path = LemonSqueezy4Delphi
+	url = https://github.com/DeveloppeurPascal/LemonSqueezy4Delphi.git
+[submodule "LibreTranslate4Delphi"]
+	path = LibreTranslate4Delphi
+	url = https://github.com/DeveloppeurPascal/LibreTranslate4Delphi.git
+[submodule "OBSWebSocket4Delphi"]
+	path = OBSWebSocket4Delphi
+	url = https://github.com/DeveloppeurPascal/OBSWebSocket4Delphi.git
