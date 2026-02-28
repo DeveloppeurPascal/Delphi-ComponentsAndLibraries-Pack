@@ -76,3 +76,6 @@
 [submodule "FMX-Tools-Starter-Kit"]
 	path = FMX-Tools-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/FMX-Tools-Starter-Kit.git
+[submodule "Delphi-NetExtend-Library"]
+	path = Delphi-NetExtend-Library
+	url = https://codeberg.org/DeveloppeurPascal/Delphi-NetExtend-Library.git
