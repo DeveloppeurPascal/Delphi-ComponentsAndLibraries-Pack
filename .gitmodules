@@ -76,3 +76,6 @@
 [submodule "Delphi-NetExtend-Library"]
 	path = Delphi-NetExtend-Library
 	url = https://codeberg.org/DeveloppeurPascal/Delphi-NetExtend-Library.git
+[submodule "librairies"]
+	path = librairies
+	url = https://github.com/DeveloppeurPascal/librairies.git
