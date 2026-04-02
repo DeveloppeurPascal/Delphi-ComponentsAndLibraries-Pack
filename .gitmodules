@@ -10,9 +10,6 @@
 [submodule "Delphi-NoCode-Library"]
 	path = Delphi-NoCode-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-NoCode-Library.git
-[submodule "librairies"]
-	path = librairies
-	url = https://github.com/DeveloppeurPascal/librairies.git
 [submodule "androidtv-delphi"]
 	path = androidtv-delphi
 	url = https://github.com/DeveloppeurPascal/androidtv-delphi.git
