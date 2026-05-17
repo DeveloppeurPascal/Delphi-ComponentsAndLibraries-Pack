@@ -8,6 +8,15 @@ Vous pouvez aussi consulter [mes autres packs de projets](https://github.com/Dev
 
 ## Présentations et conférences
 
+### Apprendre Delphi
+
+Je propose de temps en temps des présentations sous forme de webinaires ou dans le cadre de conférences en ligne. Les rediffusions sont visibles sur [mon site de cours](https://apprendre-delphi.fr/) pour apprendre le langage Pascal, l'Object Pascal et Delphi.
+
+* [vidéos en français](https://apprendre-delphi.fr/points-techniques-et-presentations-en-francais.html)
+* [vidéos en anglais](https://apprendre-delphi.fr/points-techniques-et-presentations-en-anglais.html)
+
+Ces présentations et bien d'autres sont aussi visibles sur [PeerTube](https://videos.apprendre-delphi.fr) et différentes chaînes YouTube ([ma chaîne personnelle](https://www.youtube.com/@patrickpremartin), [la chaîne Développeur Pascal](https://www.youtube.com/@DeveloppeurPascal), [la chaîne de Barnsten France](https://www.youtube.com/@BarnstenFrance) et [la chaîne d'Embarcadero Technologies](https://www.youtube.com/@EmbarcaderoTech)).
+
 ### Twitch
 
 Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
