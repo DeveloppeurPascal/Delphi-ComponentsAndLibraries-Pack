@@ -4,7 +4,7 @@
 
 Ce dépôt contient un ensemble de projets sous forme de sous-module. Vous pouvez tous les télécharger en une fois puis les consulter ou utiliser selon leurs licences respectives.
 
-Vous pouvez aussi consulter [les autres packs de projets](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) de [mon compte GitHub](https://github.com/DeveloppeurPascal) ou [celui](https://github.com/DeveloppeurPascal/_AllProjects) qui les contient tous.
+Vous pouvez aussi consulter [mes autres packs de projets](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) ou [celui qui les contient tous](https://github.com/DeveloppeurPascal/_AllProjects).
 
 ## Présentations et conférences
 

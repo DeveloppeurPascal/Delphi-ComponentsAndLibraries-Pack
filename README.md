@@ -4,7 +4,7 @@
 
 This repository contains a set of projects in the form of sub-modules. You can download them all at once and then view or use them according to their respective licenses.
 
-You can also consult the [other project packs](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) in [my GitHub account](https://github.com/DeveloppeurPascal), or [the one](https://github.com/DeveloppeurPascal/_AllProjects) that contains them all.
+You can also consult [my other projects packs](https://github.com/DeveloppeurPascal?tab=repositories&q=pack&type=&language=&sort=) or [the full projects list](https://github.com/DeveloppeurPascal/_AllProjects).
 
 ## Talks and conferences
 
