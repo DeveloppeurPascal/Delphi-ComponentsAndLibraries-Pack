@@ -76,3 +76,6 @@
 [submodule "librairies"]
 	path = librairies
 	url = https://github.com/DeveloppeurPascal/librairies.git
+[submodule "FMX-Tools-Starter-Kit"]
+	path = FMX-Tools-Starter-Kit
+	url = https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit.git
