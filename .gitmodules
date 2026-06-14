@@ -76,3 +76,6 @@
 [submodule "FMX-Tools-Starter-Kit"]
 	path = FMX-Tools-Starter-Kit
 	url = https://codeberg.org/DeveloppeurPascal/FMX-Tools-Starter-Kit.git
+[submodule "Gamolf-FMX-Game-Starter-Kit"]
+	path = Gamolf-FMX-Game-Starter-Kit
+	url = https://codeberg.org/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
