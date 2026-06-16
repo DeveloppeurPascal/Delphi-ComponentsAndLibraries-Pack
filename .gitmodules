@@ -31,12 +31,6 @@
 [submodule "LogNPass4Delphi"]
 	path = LogNPass4Delphi
 	url = https://github.com/DeveloppeurPascal/LogNPass4Delphi.git
-[submodule "DelphiBooks4Delphi"]
-	path = DelphiBooks4Delphi
-	url = https://github.com/DeveloppeurPascal/DelphiBooks4Delphi.git
-[submodule "DelphiBooks-Common"]
-	path = DelphiBooks-Common
-	url = https://github.com/DeveloppeurPascal/DelphiBooks-Common.git
 [submodule "Delphi-SkiaExtend-Library"]
 	path = Delphi-SkiaExtend-Library
 	url = https://github.com/DeveloppeurPascal/Delphi-SkiaExtend-Library.git
