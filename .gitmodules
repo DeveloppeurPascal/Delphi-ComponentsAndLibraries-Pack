@@ -79,3 +79,6 @@
 [submodule "DelphiBooks-Common"]
 	path = DelphiBooks-Common
 	url = https://codeberg.org/Delphi-Books/DelphiBooks-Common.git
+[submodule "Minimal-FireMonkey-Project"]
+	path = Minimal-FireMonkey-Project
+	url = https://codeberg.org/DeveloppeurPascal/Minimal-FireMonkey-Project.git
